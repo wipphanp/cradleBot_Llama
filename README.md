@@ -9,6 +9,7 @@ conda create -n cradleBot python=3.9 -y
 ```bash
 conda activate cradleBot
 ```
+
 ```bash
 pip install -r reqirements.txt
 ```
